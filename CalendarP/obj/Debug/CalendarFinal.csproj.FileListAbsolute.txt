@@ -1,0 +1,12 @@
+F:\CALENDAR\CalendarFinal\bin\Debug\CalendarFinal.exe.config
+F:\CALENDAR\CalendarFinal\bin\Debug\CalendarFinal.exe
+F:\CALENDAR\CalendarFinal\bin\Debug\CalendarFinal.pdb
+F:\CALENDAR\CalendarFinal\obj\Debug\CalendarFinal.csproj.AssemblyReference.cache
+F:\CALENDAR\CalendarFinal\obj\Debug\CalendarFinal.Form1.resources
+F:\CALENDAR\CalendarFinal\obj\Debug\CalendarFinal.Properties.Resources.resources
+F:\CALENDAR\CalendarFinal\obj\Debug\CalendarFinal.csproj.GenerateResource.cache
+F:\CALENDAR\CalendarFinal\obj\Debug\CalendarFinal.csproj.CoreCompileInputs.cache
+F:\CALENDAR\CalendarFinal\obj\Debug\CalendarFinal.exe
+F:\CALENDAR\CalendarFinal\obj\Debug\CalendarFinal.pdb
+F:\CALENDAR\CalendarFinal\obj\Debug\CalendarFinal.UserControlBlank.resources
+F:\CALENDAR\CalendarFinal\obj\Debug\CalendarFinal.UserControlDays.resources
